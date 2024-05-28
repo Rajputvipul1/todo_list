@@ -43,10 +43,12 @@ To run this project, you need the following installed:
         );
 3. Update the database configuration in tasks.php:
 
-      $servername = "localhost";
-      $username = "your_database_username";
-      $password = "your_database_password";
-      $dbname = "todo_list";
+         $servername = "localhost";
+         $username = "your_database_username";
+         $password = "your_database_password";
+         $dbname = "todo_list";
+   
+4. Start your web server and navigate to the project directory in your web browser.
 
 
 
